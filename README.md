@@ -1,6 +1,6 @@
 # Indústria Beleza LTDA
 
-# Table of Contents
+### Conteúdos
 1. [Criação](#criação)
 2. [Inserts](#inserts)
 3. [Consultas](#consultas)
