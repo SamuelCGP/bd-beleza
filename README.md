@@ -1,6 +1,4 @@
-# bd-beleza
-Indústria Beleza LTDA
-
+# Indústria Beleza LTDA
 
 ### Criação
 
