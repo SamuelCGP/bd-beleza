@@ -147,6 +147,8 @@ INSERT INTO notafiscal(id_vendedor, id_pedido, id_cliente) VALUES (5,5,5);
 ### Consultas
 
 ```sql
+USE industriaBeleza;
+
 -- seleciona o nome do vendedor e o bairro da região que ele é responsável --
 SELECT vendedor.nome AS 'vendedor', regiao.bairro AS 'região' 
 FROM vendedor
