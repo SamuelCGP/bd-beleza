@@ -1,5 +1,10 @@
 # Indústria Beleza LTDA
 
+# Table of Contents
+1. [Criação](#criação)
+2. [Inserts](#inserts)
+3. [Consultas](#consultas)
+
 ### Criação
 
 ```sql
@@ -82,7 +87,7 @@ CREATE TABLE NotaFiscal(
 );
 ```
 
-### INSERTS
+### Inserts
 
 ```sql
 USE industriaBeleza;
